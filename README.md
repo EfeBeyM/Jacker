@@ -1,1 +1,2 @@
-# Turk-Sploit
+'welø quiere morir &
+
