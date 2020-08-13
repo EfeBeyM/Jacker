@@ -1,14 +1,14 @@
 !/bin/bash
 
-#Code:Yaman Efkar
-#Türk Siber Timi
-#İnstagram : @turksibertimi
-#Youtube : YamanEfkar
+#Code:'welø quiere morir &
+#Hell
+#İnstagram : @efewq_
+#Youtube : Yakında
 clear
 echo -e  "
 
 
-\e[35m     ((( #Türk Siber Timi  #Yaman Efkar )))
+\e[35m     ((( #Hell  #W E L O )))
 
 
 
@@ -45,7 +45,7 @@ cd ..
 cd ..
 bash tst.sh
 elif [[ $islem == 9 || $islem == 99 ]]; then
-echo -e "\e[31mTürk Siber Timi İyi Günler Diler :)) ßß"
+echo -e "\e[31mHell İyi Günler Diler :)) ßß"
 sleep 1
 clear
 exit 1
